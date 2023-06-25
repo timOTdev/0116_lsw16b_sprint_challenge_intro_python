@@ -1,4 +1,6 @@
-# Sprint Challenge: Intro to Python
+# 0117_lsw16c_sprint_challenge_intro_python
+
+## Sprint Challenge: Intro to Python
 
 * Complete the programs in the `src/` directory in any order.
 
